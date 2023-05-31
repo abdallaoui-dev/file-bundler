@@ -1,0 +1,4 @@
+@import "./nav.css";
+@import "./footer.css";
+.classname {background-color: red;}
+@import "./lib/main.css"

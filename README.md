@@ -18,5 +18,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Release Notes
 
-- **Version 1.0.2** (2023-05-31)
+- **Version 2.0.0** (2023-05-31)
   - Initial release of file-bundler.
