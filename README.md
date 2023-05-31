@@ -1,7 +1,7 @@
 
 # File bundler
 
-File bundler is a tool that allows you to bundle multiple files into a single file for easy distribution and sharing.
+File-bundler is a tool that allows you to bundle multiple files into a single file for easy distribution and sharing.
 
 ## Features
 
