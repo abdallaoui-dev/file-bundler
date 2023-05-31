@@ -1,3 +1,4 @@
+
 # File bundler
 
 File bundler is a tool that allows you to bundle multiple files into a single file for easy distribution and sharing.
@@ -9,4 +10,13 @@ File bundler is a tool that allows you to bundle multiple files into a single fi
 - Supports various file formats.
 - Preserves the directory structure of the bundled files.
 
-## Installation
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+## Release Notes
+
+- **Version 1.0.2** (2023-05-31)
+  - Initial release of file-bundler.
