@@ -1,9 +1,10 @@
 type __file_bundler_options = {
     className?: string
-    includePatternPrefixName?: string
-    pattern?: "include" | "@?import"
-    [k: string]: any
- }
+    pattern?: "include" | "@?import",
+    includeProperties?: {
+        [k: string]: string
+    }
+}
 
 declare class FileBundler {
     private options;

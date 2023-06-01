@@ -11,7 +11,9 @@ console.log(cssResults)
 const filebundlerForHTML = new FileBundler({
    className: "FileBundler",
    pattern: "include",
-   domain_name: "my-domain-name"
+   includeProperties: {
+      domain_name: "my-domain-name"
+   }
 })
 
 const HTMLresults = filebundlerForHTML.bundle(`C:/>>/>>/>>/>>/html/index.html`)
